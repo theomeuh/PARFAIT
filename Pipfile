@@ -8,6 +8,8 @@ black = "==18.9b0"
 
 [packages]
 tensorflow = "*"
+numpy = "*"
+matplotlib = "*"
 
 [requires]
 python_version = "3.6"
